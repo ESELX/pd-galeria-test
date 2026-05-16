@@ -28,7 +28,7 @@ members:
 
 | Número  | Nome    |
 | ------- | ------- |
-| 20XXXXX | Aluno A |
+| 20XXXXX | André Rocha |
 | 20YYYYY | Aluno B |
 | 20ZZZZZ | Aluno C |
 
